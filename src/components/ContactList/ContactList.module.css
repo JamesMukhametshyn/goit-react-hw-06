@@ -1,7 +1,9 @@
-.list {
+.contactsList {
+    margin: 30px auto;
+    padding: 0;
     display: flex;
-    flex-direction: column;
-    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 20px;
-    padding: 0px;
 }

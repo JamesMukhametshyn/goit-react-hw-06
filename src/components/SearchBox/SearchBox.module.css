@@ -1,18 +1,8 @@
-.container {
-    margin: 20px 0px;
-    display: flex;
-    justify-content: center;
+.titleFilter {
+    margin: 15px auto;
 }
 
-.label {
-    display: flex;
-    flex-direction: column;
-    width: 400px;
-}
-
-.field {
-    width: 400px;
-    height: 25px;
-    border-radius: 20px;
-    text-align: center;
+.inputFilter {
+    padding: 6px;
+    width: 360px;
 }
